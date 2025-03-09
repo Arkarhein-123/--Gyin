@@ -1,0 +1,46 @@
+
+.b-red{
+    border: 2px solid red;
+}
+.font-white{
+    color: #ffffff;
+}
+.font-title{
+    font-size: 35px;
+}
+.font-body{
+    font-size: 18px;
+}
+.font-bold{
+    font-weight: 500;
+}
+.font-large-title{
+    font-size: 50px;
+}
+.bg-gray{
+    background-color: #444444;
+}
+.w-300{
+    width: 300px;
+}
+.h-400{
+    height: 400px;
+}
+.color-warning{
+    color: rgb(255, 98, 0);
+    font-size: 20px;
+    font-style: italic;
+}
+.skill-bg{
+    border: 2px solid rgb(239, 141, 138);
+    background-color: rgb(95, 67, 26);
+    border-radius: 20px;
+}
+.form-bg{
+    background-color: #4B0082;
+    border: 2px solid wheat;
+    border-radius: 30px;
+}
+.text-de-none{
+    text-decoration: none;
+}
